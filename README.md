@@ -1,4 +1,4 @@
-# simpleVue
+# simpleVue （尝试使用typescript来开发的版本）
 webpack4+vue2
 vue-cli已经更新到cli3了，对于webpack还是不大懂，于是决定从头开始撸一把webpack4+vue2，熟悉下webpack。教程地址：
 
