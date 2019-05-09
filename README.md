@@ -6,6 +6,7 @@ vue-cli已经更新到cli3了，对于webpack还是不大懂，于是决定从�
 其中很多知识是参考网络上的文章
 
 ## 本项目使用步骤：
+首先要安装nodejs，然后：
 1.fork下来本地 </br>
 2.执行`npm install` </br>
 3.`npm run dev`  //开发环境 </br>
